@@ -1,0 +1,9 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "*.module\"": "\"php\"",
+        "vgetbits.h": "c",
+        "stdlib.h": "c",
+        "data_types.h": "c"
+    }
+}
