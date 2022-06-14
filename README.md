@@ -1,4 +1,4 @@
-# testvgetbits
+# movebits
 
 Function **vGetBits** for reading a sequence of bits from provided input and returning them to the provided output.
 
