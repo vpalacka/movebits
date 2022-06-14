@@ -33,15 +33,15 @@ The test application contains set of helper functions for displaying input and o
 
 # How to overtake and test the project
 
-1. Go to [https://github.com/vpalacka/testvgetbits/tree/master](https://github.com/vpalacka/testvgetbits/tree/master)
-2. Download testvgetbits-master.zip
+1. Go to [https://github.com/vpalacka/movebits](https://github.com/vpalacka/movebits)
+2. Download movebits-main.zip
 3. Unpack content of the zip to a directory
 4. Switch to the directory where you copied it.
-5. Call *make*from the directory
+5. Call *make* from the directory
 6. Call executable  *./testvgetbits*
 
 You can also clone project using:
 
- *git clone* [*https://github.com/vpalacka/testvgetbits.git*](https://github.com/vpalacka/testvgetbits.git)
+ *git clone* [*https://github.com/vpalacka/movebits.git*](https://github.com/vpalacka/movebits.git)
 
-After cloning, please switch to the *master* branch.
+
